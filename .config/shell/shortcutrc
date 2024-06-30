@@ -1,0 +1,3 @@
+# vim: filetype=sh
+alias cac="cd /home/rama/.cache && ls -A" \
+bf="$EDITOR /home/rama/.config/shell/bm-files" \
