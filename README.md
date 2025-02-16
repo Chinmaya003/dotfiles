@@ -1,2 +1,2 @@
 # dotfiles
-## My Arch config files.Borrowed from Lukesmith.xyz
+## My Linux Config files. From all over the web.
